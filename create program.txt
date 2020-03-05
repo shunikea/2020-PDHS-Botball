@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Hello World\n");
+    printf("gr\n");
     
     create_connect();
     
