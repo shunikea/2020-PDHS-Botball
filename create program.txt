@@ -424,7 +424,7 @@ int main()
     msleep(1400);
     
     create_drive_straight(-175);
-    msleep(2560);
+    msleep(2400);
     
     create_drive_direct(120,-120);
     msleep(1400);
@@ -433,7 +433,7 @@ int main()
     msleep(2400);
     
     create_drive_straight(150);
-    msleep(3500);
+    msleep(2900);
     
     create_stop();
     
@@ -486,7 +486,7 @@ int main()
     msleep(600);
     
     mav(1,400);
-    msleep(600);
+    msleep(900);
     
     ao();
     
@@ -495,7 +495,7 @@ int main()
     msleep(1000);                   
     
     create_drive_straight(-130);
-    msleep(1900);
+    msleep(2000);
     
     create_stop();
    
